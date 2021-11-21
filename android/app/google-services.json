@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "765545056173",
+    "project_id": "dongtube-736eb",
+    "storage_bucket": "dongtube-736eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765545056173:android:9b26285953029fa46d8324",
+        "android_client_info": {
+          "package_name": "com.waobab.free_dongdong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765545056173-pightls57m9utrlnorm5j5jmlimkrddl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waobab.free_dongdong",
+            "certificate_hash": "3ac6af8fd28637352bfb29ecedd345f1a7393bdf"
+          }
+        },
+        {
+          "client_id": "765545056173-0sbgm8tp2avkuu1kodskhc4699ufhrf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbpwe8u5TN7F6Ds-YOFCj-r6_Bb9wSezw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765545056173-0sbgm8tp2avkuu1kodskhc4699ufhrf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

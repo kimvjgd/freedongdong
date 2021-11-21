@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>765545056173-d7js0ue4r4hflbtatlbd6j4c3g8vufou.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.765545056173-d7js0ue4r4hflbtatlbd6j4c3g8vufou</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>765545056173-pightls57m9utrlnorm5j5jmlimkrddl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBq-0KvKYQq4wZWzyqhf8htLpBJAETMc5s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>765545056173</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.waobab.freeDongdong</string>
+	<key>PROJECT_ID</key>
+	<string>dongtube-736eb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dongtube-736eb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:765545056173:ios:1d3518bf193cd4216d8324</string>
+</dict>
+</plist>
